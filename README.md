@@ -1,3 +1,3 @@
-# xm_MI
+# MI
 
 Rank tags by applying MI (Mutual Information) theory.
